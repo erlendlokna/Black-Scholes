@@ -20,13 +20,13 @@ With initial conditions:
 In order to obtain solutions to the PDEs we will consider 3 different initial conditions:
 
 European put:
-$$ u(x, 0) = (K-x)^+ $$
+$$u(x, 0) = (K-x)^+$$
 
 Butterfly spread:
-$$ u(x, 0) = (x-K)^+ - 2(x-(K+H))^+ +(x+2H))^+ $$
+$$u(x, 0) = (x-K)^+ - 2(x-(K+H))^+ +(x+2H))^+$$
 
 Binary call:
-$$ u(x, 0) = sgn^+(x - K) $$
+$$u(x, 0) = sgn^+(x - K)$$
 
 
 
